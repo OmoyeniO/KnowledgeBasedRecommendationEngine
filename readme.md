@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="KBR-dataflow.png" width ='600'> 
+  <img src="KBR-dataflow.png" width ='500'> 
 
 </p>
 
